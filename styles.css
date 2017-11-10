@@ -1,0 +1,12 @@
+#gameField {
+    height: 250px;
+    width: 600px;
+    border-radius: 5px;
+    padding-top: 10px;
+    margin: 5px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: gray;
+    font-family: Verdana, Arial, Sans-Serif;
+    display: inline-block;
+  }
